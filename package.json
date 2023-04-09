@@ -1,0 +1,18 @@
+{
+  "name": "spending-patterns-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.7",
+    "axios": "^1.3.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "qs": "^6.11.0"
+  }
+}
